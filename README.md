@@ -35,3 +35,11 @@ License: MIT
 **favara** is a Siculo-Arabic word meaning: water source. The Siculo-Arabic language is dead now (IX-XIV century), but we believe the word favara sounds great and its meaning really reflects the purpose of the project.
 
 License: MIT
+
+## unni
+[unni](https://github.com/sic2/unni) is a Telegram Bot that gives info about events from isamuni.
+
+**unni** is the Sicilian word for where. That is one of the main questions people ask about events: where is it? unni, however, provides more information about events than just where that happen.
+
+unni serves the events data from isamuni
+
