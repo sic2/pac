@@ -2,7 +2,7 @@
 
 This is a list of project currently maintained by the PAC community.
 
-PAC stands for [Programmatori A Catania](https://www.facebook.com/groups/programmatoriCatania/) and it is a noprofit digital community.
+PAC stands for [Programmatori A Catania](https://www.facebook.com/groups/programmatoriCatania/), a noprofit digital community.
 
 All projects have open licenses and anyone is welcome to contribute.
 
