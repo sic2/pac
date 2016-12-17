@@ -2,7 +2,7 @@
 
 This is a list of project currently maintained by the PAC community.
 
-PAC stands for [Programmatori A Catania](https://www.facebook.com/groups/programmatoriCatania/) and it is a no-profit digital community.
+PAC stands for [Programmatori A Catania](https://www.facebook.com/groups/programmatoriCatania/) and it is a noprofit digital community.
 
 All projects have open licenses and anyone is welcome to contribute.
 
@@ -14,32 +14,27 @@ All projects have open licenses and anyone is welcome to contribute.
 License: CC by 4.0
 
 ## isamuni
-[isamuni](https://github.com/sic2/isamuni) is an aggregator of information for Facebook groups. The goal is to facilitate the communication and integration across the following parties:
-
-- Type I : Companies, corporations, startups, and spin-offs in the tech world
-- Type II : Incubators, accellerators, universities, and communities
-- Type III : Students, professionals, and enthusiasts
+[isamuni](https://github.com/sic2/isamuni) is a lazy social network for small communities. Forget about chats and posting your mad ideas. There are already thousands of other solutions for that. isamuni, instead, aggregates data from multiple selected social networks (e.g. FB, Twitter, NodeBB forums) for a better understanding of what is happening with a commmunity (e.g. tech community of a particular region, football clubs of a certain league, book readers across the country). Moreover, isamuni allows individuals and groups of people to create neat and beautiful static pages to tell others how great they are.
 
 License: MIT
 
-## sciabaca
-[sciabaca](https://github.com/sic2/sciabaca) is a geo-restricted aggregator of FB events.
+## sciabaca (will be released soon)
+[sciabaca](https://github.com/sic2/sciabaca) is a web application for events aggregated via favara.
 
-**sciabaca** (or sciàbaca or sciabachèju) is an Siculo-Arabic word meaning: fishing net. The Siculo-Arabic language is dead now (IX-XIV century), but we believe the word sciabaca sounds great and its meaning really reflects the purpose of the project.
+**sciabaca** (or sciàbaca or sciabachèju) is an Siculo-Arabic word meaning: fishing net. The Siculo-Arabic language is dead now (IX-XIV century), but we believe the word sciabaca not only sounds great, but its meaning really reflects the purpose of the project.
 
 License: MIT
 
 ## favara
-[favara](https://github.com/sic2/favara) is a very simple and easy to use FB crawler for pages and groups.
-
-**favara** is a Siculo-Arabic word meaning: water source. The Siculo-Arabic language is dead now (IX-XIV century), but we believe the word favara sounds great and its meaning really reflects the purpose of the project.
+[favara](https://github.com/sic2/favara) is a simple and easy to use crawler for web sources (fb, twitter, nodebb, etc)
 
 License: MIT
 
 ## unni
 [unni](https://github.com/sic2/unni) is a Telegram Bot that gives info about events from isamuni.
 
-**unni** is the Sicilian word for where. That is one of the main questions people ask about events: where is it? unni, however, provides more information about events than just where that happen.
+**unni** is the Sicilian word for where. That is one of the main questions people ask about events: where is it?
 
-unni serves the events data from isamuni
+unni currently serves the events data from isamuni and it is available as [@unni_bot](https://telegram.me/unni_bot).
 
+License: MIT
